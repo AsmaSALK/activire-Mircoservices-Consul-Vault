@@ -6,4 +6,6 @@ Consul est un outil de gestion de configuration qui permet aux différents micro
 
 Vault est un outil de gestion de la sécurité qui permet de stocker et de gérer des secrets tels que les mots de passe, les jetons d'authentification et les certificats SSL de manière sécurisée. Vault permet également de générer des secrets de manière dynamique, ce qui peut être utile lorsque vous avez besoin de secrets temporaires pour une utilisation limitée, comme des jetons d'authentification pour accéder à une API.
 
-Ensemble, Consul et Vault peuvent être utilisés pour simplifier la gestion de la configuration et de la sécurité dans les architectures de microservices en vous permettant de centraliser ces informations et de les rendre facilement accessibles aux différents microservices de votre application. image
+Ensemble, Consul et Vault peuvent être utilisés pour simplifier la gestion de la configuration et de la sécurité dans les architectures de microservices en vous permettant de centraliser ces informations et de les rendre facilement accessibles aux différents microservices de votre application.
+![image](https://user-images.githubusercontent.com/97363124/210271489-50f7d167-93a6-40b5-a05c-3b2b75d62af7.png)
+
